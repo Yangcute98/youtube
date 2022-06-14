@@ -1,0 +1,50 @@
+.bi-youtube {
+    color: red;
+}
+
+.col-1 {
+    width: auto;
+}
+
+a {
+    color: black;
+}
+
+h6 {
+    color: #606060;
+    margin-top: 15px;
+}
+
+#img {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.style-scope {
+    margin-right: 5px;
+}
+
+.col-lg-2 {
+    position: relative;
+    height: 1000px;
+    margin-top: 0;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 250px;
+    float: right;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+#video-title-link.ytd-rich-grid-media {
+    color: black;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    font-weight: 500;
+    max-height: 2rem;
+    overflow: hidden;
+    text-decoration: none;
+}
+.me-2{width: 24px; height: 24px;}
